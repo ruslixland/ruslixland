@@ -19,7 +19,12 @@
   .lesson {
     width: 100%;
   }
-  
+  .content {
+    text-align: center;
+  }
+  .header-list {
+    float: rigth;
+  }
   footer {
     text-align: center;
   }
